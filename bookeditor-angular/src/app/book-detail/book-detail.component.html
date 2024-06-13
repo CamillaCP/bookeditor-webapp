@@ -1,0 +1,18 @@
+<!-- Utilizzo della direttiva strutturale *ngIf per la visualizzazione delle informazioni relative al book scelto -->
+<div *ngIf="book">
+
+    <h2>"{{book.name}}" Details</h2>
+    <div><label for="id">ID: </label>{{book.id}}</div>
+    <div>
+      <!-- Per ogni proprietà del book considerato viene effettuato il binding con l'elemento di input grazie alla 
+      direttiva NgModule -->
+      <label for="book-name">Book Name: &nbsp;&nbsp;</label>
+      <input id="book-name" [(ngModel)]="book.name" placeholder="name">
+    </div>
+    <div>
+      <label for="book-author">Book Author: </label>
+      <input id="book-author" [(ngModel)]="book.author" placeholder="author">
+    </div><br>
+    &nbsp;&nbsp;<button type="button" (click)="save()">Save</button> &nbsp;
+    <button type="button" (click)="goBack()">Go Back</button>
+</div>

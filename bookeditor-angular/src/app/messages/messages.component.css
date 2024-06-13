@@ -1,0 +1,24 @@
+   h2 {
+    color: #a9a9a9;;
+    font-size: 1.4rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   }
+
+  .clear {
+    color: whitesmoke;
+    background-color:#f96669;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10px;
+    padding: 1rem;
+    border-radius: 6px;
+    font-size: 1rem;
+  }
+  .clear:hover {
+    color: #efefef;
+    background-color:#ff3b3f;
+  }
+
+  div {
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      color: #6e6c6c;
+  }

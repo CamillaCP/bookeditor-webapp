@@ -1,0 +1,113 @@
+.books {
+    margin: 0 0 2em 0;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  input {
+    display: block;
+    width: 100%;
+    padding: .5rem;
+    margin: 1rem 0;
+    box-sizing: border-box;
+    background-color: #deedf1;
+    border-radius: 4px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  label {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #a9a9a9;
+    font-size: 1rem;
+    font-weight: bold;
+  }
+
+  .books li {
+    display: flex;
+  }
+  
+  .books .name {
+    align-self: center;
+  }
+
+  .books a {
+    flex: 1;
+    cursor: pointer;
+    position: relative;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 0;
+    background-color: #b1e8f3;
+    border-color: #b1e8f3;
+    color: #747474;
+    margin: .5em;
+    padding-left: 12px;
+    padding-top: 4px;
+    border-radius: 4px;
+    display: flex;
+    align-items: stretch;
+    height: 1.8em;
+
+  }
+  
+  .books a:hover {
+    color: #fafafa;
+    background-color: #a9a9a9;
+    left: .1em;
+  }
+  
+  .books a:active {
+    background-color: #525252;
+    color: #fafafa;
+  }
+
+  .add-button {
+    color: whitesmoke;
+    background-color:#f96669;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 12px;
+    padding: 1rem;
+    width: 120px;
+    border-radius: 4px;
+    font-size: 1rem;
+    display: inline;
+   }
+   
+   .add-button:hover {
+    color: #efefef;
+    background-color:#ff3b3f;
+   }
+   
+   button.delete {
+    cursor: pointer;
+    position: relative;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #b1e8f3;
+    border-color: #b1e8f3;
+    color: #747474;
+    margin:auto;
+    justify-content: center;  
+    padding-top: 9px;
+    border-radius: 4px;
+    display: flex;
+    align-items: stretch;
+    height: 35px;
+    width: 35px;
+   }
+   
+   button.delete:hover {
+    color: #fafafa;
+    background-color: #a9a9a9;
+    left: .1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+   }
+  
+
+
+
+  
+
+  
+
+
+  

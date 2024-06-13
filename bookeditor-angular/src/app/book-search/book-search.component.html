@@ -1,0 +1,15 @@
+<div id="search-component">
+    <label for="search-box">BOOK SEARCH</label>
+    <input #searchBox id="search-box" (input)="search(searchBox.value)" placeholder="Search.." />
+  
+    <ul class="search-result">
+      <!-- La direttiva *ngFor è utilizzata per stampare per ogni libro che coincide con la stringa di ricerca un link 
+        alla pagina che ne contiene le informazioni -->
+      <li *ngFor="let book of books$ | async" >
+        <a routerLink="/detail/{{book.id}}">
+          {{book.name}}
+        </a>
+      </li>
+    </ul>
+  </div>
+  <br><br><br>
