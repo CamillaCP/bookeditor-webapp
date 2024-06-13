@@ -1,0 +1,39 @@
+Date : 2022-07-20 16:19:42
+Directory : c:\Users\camil\Prove tesi\bookeditor-react\src
+Total : 12 files,  571 codes, 14 comments, 105 blanks, all 690 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| CSS        |          1 |        321 |          2 |         50 |        373 |
+| JavaScript |         11 |        250 |         12 |         55 |        317 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                              | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                 |         12 |        571 |         14 |        105 |        690 |
+| components                                                                        |          9 |        216 |         11 |         48 |        275 |
+| components\pages                                                                  |          3 |         92 |          8 |         23 |        123 |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                          | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\camil\Prove tesi\bookeditor-react\src\App.css                            | CSS        |        321 |          2 |         50 |        373 |
+| c:\Users\camil\Prove tesi\bookeditor-react\src\App.js                             | JavaScript |         25 |          1 |          4 |         30 |
+| c:\Users\camil\Prove tesi\bookeditor-react\src\components\Book.js                 | JavaScript |         21 |          0 |          3 |         24 |
+| c:\Users\camil\Prove tesi\bookeditor-react\src\components\BookSearch.js           | JavaScript |         42 |          0 |          8 |         50 |
+| c:\Users\camil\Prove tesi\bookeditor-react\src\components\Footer.js               | JavaScript |         10 |          1 |          6 |         17 |
+| c:\Users\camil\Prove tesi\bookeditor-react\src\components\Header.js               | JavaScript |         12 |          0 |          1 |         13 |
+| c:\Users\camil\Prove tesi\bookeditor-react\src\components\Messages.js             | JavaScript |         27 |          2 |          6 |         35 |
+| c:\Users\camil\Prove tesi\bookeditor-react\src\components\Navbar.js               | JavaScript |         12 |          0 |          1 |         13 |
+| c:\Users\camil\Prove tesi\bookeditor-react\src\components\pages\BookDetailPage.js | JavaScript |         43 |          0 |         10 |         53 |
+| c:\Users\camil\Prove tesi\bookeditor-react\src\components\pages\BookListPage.js   | JavaScript |         37 |          8 |         11 |         56 |
+| c:\Users\camil\Prove tesi\bookeditor-react\src\components\pages\MainPage.js       | JavaScript |         12 |          0 |          2 |         14 |
+| c:\Users\camil\Prove tesi\bookeditor-react\src\index.js                           | JavaScript |          9 |          0 |          3 |         12 |
+| Total                                                                             |            |        571 |         14 |        105 |        690 |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

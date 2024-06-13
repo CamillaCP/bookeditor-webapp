@@ -1,0 +1,86 @@
+Date : 2022-07-20 16:07:11
+Directory : c:\Users\camil\Prove tesi\prima-prova-angular
+Total : 48 files,  21327 codes, 73 comments, 238 blanks, all 21638 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          5 |     20,357 |          2 |          5 |     20,364 |
+| TypeScript         |         26 |        496 |         62 |        147 |        705 |
+| CSS                |          7 |        310 |          2 |         55 |        367 |
+| HTML               |          7 |         82 |          0 |         14 |         96 |
+| JavaScript         |          1 |         37 |          6 |          2 |         45 |
+| JSON with Comments |          1 |         31 |          1 |          1 |         33 |
+| Markdown           |          1 |         14 |          0 |         14 |         28 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                            | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                               |         48 |     21,327 |         73 |        238 |     21,638 |
+| src                                                                                             |         40 |        888 |         64 |        216 |      1,168 |
+| src\app                                                                                         |         33 |        825 |          2 |        193 |      1,020 |
+| src\app\book-detail                                                                             |          4 |        102 |          0 |         24 |        126 |
+| src\app\book-search                                                                             |          3 |         85 |          0 |         14 |         99 |
+| src\app\books                                                                                   |          4 |        158 |          0 |         42 |        200 |
+| src\app\dashboard                                                                               |          4 |         92 |          2 |         19 |        113 |
+| src\app\messages                                                                                |          4 |         59 |          0 |         16 |         75 |
+| src\environments                                                                                |          2 |          6 |         11 |          4 |         21 |
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                        | language           | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\camil\Prove tesi\prima-prova-angular\README.md                                         | Markdown           |         14 |          0 |         14 |         28 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\angular.json                                      | JSON               |        106 |          0 |          1 |        107 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\karma.conf.js                                     | JavaScript         |         37 |          6 |          2 |         45 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\package-lock.json                                 | JSON               |     20,180 |          0 |          1 |     20,181 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\package.json                                      | JSON               |         40 |          0 |          1 |         41 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\app-routing.module.ts                     | TypeScript         |         16 |          0 |          4 |         20 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\app.component.css                         | CSS                |         53 |          0 |         13 |         66 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\app.component.html                        | HTML               |         14 |          0 |          4 |         18 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\app.component.spec.ts                     | TypeScript         |         31 |          0 |          5 |         36 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\app.component.ts                          | TypeScript         |          9 |          0 |          2 |         11 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\app.module.ts                             | TypeScript         |         33 |          0 |          6 |         39 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\book-detail\book-detail.component.css     | CSS                |         35 |          0 |          4 |         39 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\book-detail\book-detail.component.html    | HTML               |         14 |          0 |          2 |         16 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\book-detail\book-detail.component.spec.ts | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\book-detail\book-detail.component.ts      | TypeScript         |         33 |          0 |         12 |         45 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\book-search\book-search.component.css     | CSS                |         46 |          0 |          5 |         51 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\book-search\book-search.component.html    | HTML               |         12 |          0 |          1 |         13 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\book-search\book-search.component.ts      | TypeScript         |         27 |          0 |          8 |         35 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\book.service.spec.ts                      | TypeScript         |         12 |          0 |          5 |         17 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\book.service.ts                           | TypeScript         |         83 |          0 |         18 |        101 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\book.ts                                   | TypeScript         |          5 |          0 |          0 |          5 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\books\books.component.css                 | CSS                |         91 |          0 |         22 |        113 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\books\books.component.html                | HTML               |         17 |          0 |          3 |         20 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\books\books.component.spec.ts             | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\books\books.component.ts                  | TypeScript         |         30 |          0 |         11 |         41 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\dashboard\dashboard.component.css         | CSS                |         47 |          2 |          6 |         55 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\dashboard\dashboard.component.html        | HTML               |          7 |          0 |          0 |          7 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\dashboard\dashboard.component.spec.ts     | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\dashboard\dashboard.component.ts          | TypeScript         |         18 |          0 |          7 |         25 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\in-memory-data.service.spec.ts            | TypeScript         |         12 |          0 |          5 |         17 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\in-memory-data.service.ts                 | TypeScript         |         25 |          0 |          5 |         30 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\message.service.spec.ts                   | TypeScript         |         12 |          0 |          5 |         17 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\message.service.ts                        | TypeScript         |         13 |          0 |          5 |         18 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\messages\messages.component.css           | CSS                |         22 |          0 |          2 |         24 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\messages\messages.component.html          | HTML               |          5 |          0 |          3 |          8 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\messages\messages.component.spec.ts       | TypeScript         |         20 |          0 |          6 |         26 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\messages\messages.component.ts            | TypeScript         |         12 |          0 |          5 |         17 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\app\mock-books.ts                             | TypeScript         |         11 |          0 |          1 |         12 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\environments\environment.prod.ts              | TypeScript         |          3 |          0 |          1 |          4 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\environments\environment.ts                   | TypeScript         |          3 |         11 |          3 |         17 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\index.html                                    | HTML               |         13 |          0 |          1 |         14 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\main.ts                                       | TypeScript         |          9 |          0 |          4 |         13 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\polyfills.ts                                  | TypeScript         |          1 |         47 |          6 |         54 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\styles.css                                    | CSS                |         16 |          0 |          3 |         19 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\src\test.ts                                       | TypeScript         |         18 |          4 |          5 |         27 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\tsconfig.app.json                                 | JSON               |         14 |          1 |          1 |         16 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\tsconfig.json                                     | JSON with Comments |         31 |          1 |          1 |         33 |
+| c:\Users\camil\Prove tesi\prima-prova-angular\tsconfig.spec.json                                | JSON               |         17 |          1 |          1 |         19 |
+| Total                                                                                           |                    |     21,327 |         73 |        238 |     21,638 |
++-------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
