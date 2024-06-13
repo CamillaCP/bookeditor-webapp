@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<head>
+    <title>Book Editor</title>
+    <link rel="stylesheet" href="styles.css"> 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <script src="script.js"></script>
+</head>
+<body onload="bookDetails()">
+    <div class="header">
+        <img class="logo" src="logo.png" alt="UNIPV LOGO" width="200" height="80"/>
+    </div>
+    <h1>BOOK EDITOR</h1>
+    <button onclick="navigate('home.html')"><i class="material-icons">home</i>Home</button>&nbsp;
+    <button onclick="navigate('books.html')"><i class="material-icons">menu_book</i>&nbsp;Books</button>
+    <div>
+    <h2 id="book-details" class="book-details"></h2>
+    <div id="id-slot" class="id-slot"></div>
+    </div>
+    <div id="name" class="name">
+    <label class="name-slot">Book Name: &nbsp;&nbsp;</label>&nbsp;
+    </div>
+    <div id="author" class="author">
+    <label class="author-slot" for="book-author">Book Author: </label>&nbsp;
+    </div><br /><br />
+    <button class="form-button" type="button" onclick="handleSave()">Save</button> &nbsp;
+    <button class="form-button" type="button" onclick="javascript:history.back()">Go Back</button>
+
+    <div>
+        <label class="messages">MESSAGES</label>
+        <ul class="message-list" id="message-list"></ul>
+        <button type="button" class="clear" title="Delete all messages">Clear Messages</button>
+    </div>
+
+    <div class="footer">
+        <p>Web Application developed with JavaScript</p>
+    </div>
+</body>

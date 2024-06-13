@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<head>
+    <title>Book Editor</title>
+    <link rel="stylesheet" href="styles.css"> 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <script src="script.js"></script>
+</head>
+<body onload="addLinks()">
+    <div class="header">
+        <img class="logo" src="logo.png" alt="UNIPV LOGO" width="200" height="80"/>
+    </div>
+    <h1>BOOK EDITOR</h1>
+   
+    <button onclick="navigate('home.html')"><i class="material-icons">home</i>Home</button>&nbsp;
+    <button onclick="navigate('books.html')"><i class="material-icons">menu_book</i>&nbsp;Books</button>
+    <h2>TOP BOOKS</h2>
+    <div id="book-list" class="book-list"></div>
+
+    <label>BOOK SEARCH</label>
+    <div class="searchbar-container">
+        <div class="wrapper">
+          <input class="search-tool" type="text" name="search" id="search" placeholder="Search..." autocomplete="off" oninput="filteredSearch()">
+          <div class="results">
+            
+          </div>
+        </div>
+    </div>
+
+    <div>
+    <label class="messages">MESSAGES</label>
+    <ul class="message-list" id="message-list"></ul>
+    <button type="button" class="clear" title="Delete all messages">Clear Messages</button>
+    </div>
+
+    <div class="footer">
+        <p>Web Application developed with JavaScript</p>
+    </div>
+
+</body>
